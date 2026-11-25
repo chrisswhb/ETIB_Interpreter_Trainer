@@ -29,10 +29,13 @@
     <img src="https://img.shields.io/badge/INTTECH100-Geneva%202026-1855A5?style=flat-square" alt="INTTECH100" />
   </a>
   <a href="https://cinia.blogs.usj.edu.lb/2026/10/de-beyrouth-a-geneve-lusj-innove-dans-la-formation-des-interpretes-grace-a-lia/">
-    <img src="https://img.shields.io/badge/Peer--Reviewed-Conference-218838?style=flat-square" alt="Peer-reviewed conference" />
+    <img src="https://img.shields.io/badge/Peer--Reviewed-Conference-218838?style=flat-square" alt="Peer-reviewed conference contribution" />
+  </a>
+  <a href="https://www.annahar.com/technology/artificial-intelligence/352136/في-اليوم-الدولي-للترجمة-حين-يصبح-المترجم-شريكا-في-بنا-الذكاء-الاصطناعي">
+    <img src="https://img.shields.io/badge/Featured%20in-An--Nahar-1769AA?style=flat-square" alt="An-Nahar press coverage" />
   </a>
   <a href="https://www.lorientlejour.com/article/1550062/comprendre-avant-dutiliser-a-letib-un-du-pour-placer-les-linguistes-au-coeur-de-lia.html">
-    <img src="https://img.shields.io/badge/Featured%20in-L%27Orient--Le%20Jour-8B2020?style=flat-square" alt="Press coverage" />
+    <img src="https://img.shields.io/badge/Mentioned%20in-L%27Orient--Le%20Jour-8B2020?style=flat-square" alt="L'Orient-Le Jour press mention" />
   </a>
 </p>
 
@@ -73,6 +76,7 @@ Developed through an interdisciplinary collaboration between ESIB, ETIB and CINI
 
 | Publication | Date | Article |
 |---|---|---|
+| An-Nahar | September 2026 | [International Translation Day: When Translators Become Partners in Building AI](https://www.annahar.com/technology/artificial-intelligence/352136/في-اليوم-الدولي-للترجمة-حين-يصبح-المترجم-شريكا-في-بنا-الذكاء-الاصطناعي) |
 | L'Orient-Le Jour | October 2026 | [AI and the Future of Language Professions](https://www.lorientlejour.com/article/1550062/comprendre-avant-dutiliser-a-letib-un-du-pour-placer-les-linguistes-au-coeur-de-lia.html) |
 | CINIA — USJ | October 2026 | [From Beirut to Geneva: USJ Innovates in Interpreter Training Through AI](https://cinia.blogs.usj.edu.lb/2026/10/de-beyrouth-a-geneve-lusj-innove-dans-la-formation-des-interpretes-grace-a-lia/) |
 | USJ | September 2026 | [From Understanding to Developing AI](https://usj.edu.lb/en/news/understanding-developing-ai-etib-launches-pioneering-university-diploma-language-professionals) |
