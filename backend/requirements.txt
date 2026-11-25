@@ -1,0 +1,58 @@
+# ============================================================
+# ETIB Platform - Python Dependencies
+# ============================================================
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# --- Core framework ---
+flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+
+# --- Free LLM clients ---
+groq==0.9.0
+httpx==0.27.2
+google-generativeai==0.7.2
+ollama==0.2.1
+torch
+transformers
+accelerate
+sentencepiece
+tiktoken
+protobuf
+huggingface-hub
+
+# --- TTS (Text-to-Speech) ---
+edge-tts>=7.3.1
+
+# --- ASR (Automatic Speech Recognition) ---
+faster-whisper>=1.1.1
+whisperx>=3.1.1              # Forced alignment for pronunciation assessment
+torchaudio>=2.0.0            # Audio processing for alignment
+librosa>=0.10.0              # Audio utilities
+
+# --- Audio processing ---
+pydub==0.25.1
+ffmpeg-python==0.2.0
+
+# --- File generation and extraction ---
+python-docx==1.1.0
+pypdf==6.13.2
+pdfplumber==0.11.10
+pdfminer.six==20260107
+pypdfium2==5.10.1
+Pillow==12.2.0
+cryptography==49.0.0
+fpdf2==2.7.9
+
+# --- Database ---
+pymongo==4.10.1
+flask-sqlalchemy==3.1.1
+
+# --- Testing ---
+pytest==8.2.0
+pytest-flask==1.3.0
+
+# --- Utilities ---
+requests==2.32.3
+curl-cffi>=0.7.0             # Browser TLS impersonation — bypasses AWS WAF on UN Digital Library
